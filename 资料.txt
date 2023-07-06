@@ -1,0 +1,31 @@
+
+
+游戏领域：
+python游戏（数独、像素鸟、贪吃蛇）https://github.com/NemoHoHaloAi/Game
+
+python(一些用python写的小游戏，包括飞船大战，坦克大战，扫雷，俄罗斯方块，五子棋游戏，贪吃蛇，数字游戏，还包括成绩管理系统与天气查询系统的实现以及turtle绘制小猪佩奇，皮卡丘与哆啦A梦）持续更新中:
+https://github.com/liuzuoping/python_Games
+
+微信小游戏（微信开发工具自带webpack， 这里webpack用于H5调试
+愤怒的小鸟 贪吃蛇 飞机大战 坦克大战 消消乐 星图 大家来找茬）：
+https://github.com/Aimee1608/wechatGame-all
+
+别人做的游戏收集资料： https://github.com/Leo501/awesome-CocosCreator
+CocosCreator文档（Cocos Creator 是一个开源引擎，连同范例、文档都是开源的）：
+https://docs.cocos.com/creator/manual/zh/glossary/
+cocos介绍：
+https://zhuanlan.zhihu.com/p/599811067
+https://www.cocos.com/about
+
+游戏引擎介绍（Unity, Cocos, Laya, UE4, 白鹭, Godot）：https://zhuanlan.zhihu.com/p/551659385
+godotengine： https://godotengine.org/
+godot文档： https://docs.godotengine.org/zh_CN/latest/getting_started/introduction/introduction_to_godot.html
+网页编辑入口： https://editor.godotengine.org/releases/latest/
+网页编辑版本文档： https://docs.godotengine.org/en/latest/tutorials/editor/using_the_web_editor.html
+
+基于图像的游戏AI自动化框架:
+https://github.com/Tencent/GameAISDK
+
+Airtest是一款跨平台的UI自动化测试框架，基于 图像识别原理 ，适用于游戏和App(网易官方提供的):
+https://airtest.doc.io.netease.com/IDEdocs/airtest_framework/0_airtest_info/
+https://airtest-refactor.doc.io.netease.com/airtest-project-docs/summary/summary/（教程文档）
